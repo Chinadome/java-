@@ -68,7 +68,7 @@
     - 修改一下 README.md，然后提交一下
         ```
         git status
-        git add .
+        git git .
         git commit -m "本修改说明"
         git push
         ```
